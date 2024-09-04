@@ -1,4 +1,7 @@
 ## Hi there 👋
+I’m Subhasis
+I’m currently learning Control Theory
+I’m looking for help with PLC programming
 
 <!--
 **soobasis/soobasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
